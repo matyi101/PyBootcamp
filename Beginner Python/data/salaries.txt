@@ -1,0 +1,12 @@
+The data is as following:
+
+{"name": "John", "salary": 5000, "years_employed": 4} 
+{"name": "Lee", "salary": 4000, "years_employed": 3} 
+{"name": "Alex", "salary": 3000, "years_employed": 7} 
+
+Oh yes an these two:
+
+{"name": "John", "salary": 3000, "years_employed": 8}
+{"name": "Lauren", "salary": 6000, "years_employed": 5}
+
+Bye!
